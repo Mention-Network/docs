@@ -22,10 +22,10 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Partnerships",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "Partnerships/BOP",
+              "Partnerships/BrandAssets"
             ]
           },
           {
