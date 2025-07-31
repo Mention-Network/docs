@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Mention Network",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -108,7 +108,7 @@
   "footer": {
     "socials": {
       "x": "https://x.com/mention_network",
-      "github": "https://github.com/mintlify",
+      "discord": "https://discord.com/invite/XMW6MvGQQ2",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
   }
