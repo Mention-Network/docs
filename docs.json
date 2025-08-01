@@ -76,7 +76,7 @@
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://learn.mention.network/",
           "icon": "newspaper"
         }
       ]
@@ -90,13 +90,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:Contact@mention.network"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Download Extension",
+      "href": "https://chromewebstore.google.com/detail/mention-network/dkdkgolbbhndgncnaogbdgdnldopcggj"
     }
   },
   "footer": {
