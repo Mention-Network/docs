@@ -30,12 +30,10 @@
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Privacy & Terms",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "PoliciesTOS/PrivacyPolicy",
+              "PoliciesTOS/TermsofService"
             ]
           },
           {
