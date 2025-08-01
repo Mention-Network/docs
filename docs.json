@@ -35,14 +35,6 @@
               "PoliciesTOS/PrivacyPolicy",
               "PoliciesTOS/TermsofService"
             ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
           }
         ]
       },
