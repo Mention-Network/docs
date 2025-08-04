@@ -72,8 +72,8 @@
     }
   },
   "logo": {
-    "light": "/logo/MNLogo.png",
-    "dark": "/logo/MNLogo.png"
+    "light": "/logo/dark.png",
+    "dark": "/logo/Light.png"
   },
   "navbar": {
     "links": [
