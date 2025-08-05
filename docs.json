@@ -24,7 +24,8 @@
            {
             "group": "Events & Campaigns",
             "pages": [
-              "EventCampaign/Voyage"
+              "EventCampaign/Voyage",
+              "EventCampaign/Referral"
             ]
           },
           {
